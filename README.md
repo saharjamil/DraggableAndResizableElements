@@ -5,8 +5,11 @@ A simple Angular project that lets you **drag** and **resize** elements — no e
 ## ✨ Features
 
 📦 Drag elements
+
 ↔️ Resize elements freely (with min width/height constraints)
+
 🧠 Smart snapping and boundary detection
+
 🎯 Clean TypeScript structure
 
 
