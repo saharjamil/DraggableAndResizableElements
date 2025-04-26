@@ -52,8 +52,8 @@
               "src/styles.scss",
               "node_modules/gridstack/dist/gridstack.min.css"
             ],
-            "scripts": [],
-            "baseHref": "/DraggableAndResizableElements/"
+            "scripts": []
+            
           },
           "configurations": {
             "production": {
