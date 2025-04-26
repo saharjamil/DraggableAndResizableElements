@@ -36,7 +36,7 @@
         "build": {
           "builder": "@angular-devkit/build-angular:browser",
           "options": {
-            "outputPath": "dist/draggable-and-resizable-elements",
+            "outputPath": "dist/DraggableAndResizableElements",
             "index": "src/index.html",
             "main": "src/main.ts",
             "polyfills": [
@@ -51,9 +51,8 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": []
-            
-             
+            "scripts": [],
+            "baseHref": "DraggableAndResizableElements"
           },
           "configurations": {
             "production": {
@@ -65,8 +64,8 @@
                 },
                 {
                   "type": "anyComponentStyle",
-                  "maximumWarning": "2kb",
-                  "maximumError": "4kb"
+                  "maximumWarning": "8kb",
+                  "maximumError": "10kb"
                 }
               ],
               "outputHashing": "all"

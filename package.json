@@ -6,7 +6,7 @@
     "start": "ng serve ",
     "build": "ng build --configuration production",
     "watch": "ng build --watch --configuration development",
-    "deploy": "ng build --configuration production && gh-pages -d dist/draggable-and-resizable-elements",
+    "deploy": "ng build --configuration production && gh-pages -d dist/DraggableAndResizableElements",
     "test": "ng test"
   },
   "private": true,
