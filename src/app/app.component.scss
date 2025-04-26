@@ -17,7 +17,8 @@
 
    
 }
-.grid-stack-item-content{
+:host::ng-deep{
+  .grid-stack-item-content{
     border: 1px solid var(--gray-400);
     border-radius: 12px;
     overflow: hidden;
@@ -30,4 +31,5 @@
       border: none;
       padding: 0;
     }
+}
 }
