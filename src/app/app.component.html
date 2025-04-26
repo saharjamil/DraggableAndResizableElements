@@ -1,5 +1,3 @@
-<div style="position: relative;">
-  <gridstack [options]="gridOptions">
-    <gridstack-item [attr.data-gs-id]="item.id" [options]="{x: item.x, y: item.y, w: item.w, h: item.h}" *ngFor="let item of gridItems" ><img src="../assets/Images/chartExample{{item.id}}.jpg" width="100%"/></gridstack-item>
-  </gridstack>
-</div>
+<gridstack [options]="gridOptions">
+  <gridstack-item [attr.data-gs-id]="item.id" [options]="{x: item.x, y: item.y, w: item.w, h: item.h}" *ngFor="let item of gridItems" ><img src="../assets/chartExample{{item.id}}.jpg" width="100%"/></gridstack-item>
+</gridstack>

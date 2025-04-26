@@ -51,8 +51,7 @@
             "styles": [
               "src/styles.scss"
             ],
-            "scripts": [],
-            "baseHref": "DraggableAndResizableElements"
+            "scripts": []
           },
           "configurations": {
             "production": {
