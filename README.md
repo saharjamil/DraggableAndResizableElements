@@ -1,4 +1,15 @@
-# DraggableAndResizableElements
+# Draggable & Resizable Elements (Angular)
+
+A simple Angular project that lets you **drag** and **resize** elements — no external libraries needed!
+
+## ✨ Features
+
+📦 Drag elements
+↔️ Resize elements freely (with min width/height constraints)
+🧠 Smart snapping and boundary detection
+🎯 Clean TypeScript structure
+
+
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 17.3.16.
 
