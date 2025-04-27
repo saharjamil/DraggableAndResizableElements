@@ -1,6 +1,6 @@
 # Draggable & Resizable Elements (Angular)
 
-A simple Angular project that lets you **drag** and **resize** elements — no external libraries needed!
+A simple Angular project that lets you **drag** and **resize** elements
 
 ## ✨ Features
 
