@@ -2,6 +2,9 @@
 
 A simple Angular project that lets you **drag** and **resize** elements
 
+"If you find this project useful, please consider giving it a ⭐️!"
+
+
 ## ✨ Features
 
 📦 Drag elements
